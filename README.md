@@ -5,7 +5,7 @@
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=react,js)](https://skillicons.dev)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=firebase,nodejs,expressjs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb)](https://skillicons.dev)
 
 
 
