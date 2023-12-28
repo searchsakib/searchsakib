@@ -13,6 +13,10 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/searchsakib/searchsakib/blob/main/images/icons/LI-Logo.png"></p>](https://www.linkedin.com/in/searchsakib)
+<p align="center">
+  <a href="https://www.linkedin.com/in/searchsakib">
+    <img height="75" src="https://github.com/searchsakib/searchsakib/blob/main/images/icons/LI-Logo.png" alt="LinkedIn Logo">
+  </a>
+</p>
 
 <br />
