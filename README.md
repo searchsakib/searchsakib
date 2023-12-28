@@ -2,7 +2,7 @@
 
 
 
-## :chart_with_upwards_trend: Current Stats
+## :chart: Current Stats
 
 <br />
 <p align="center">
