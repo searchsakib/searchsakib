@@ -1,3 +1,5 @@
+## :computer: Technologies I Worked with
+
 [![My Skills](https://skillicons.dev/icons?i=react,js,tailwind,html,css,figma,)](https://skillicons.dev)
 
 
