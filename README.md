@@ -13,6 +13,6 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/searchsakib/searchsakib/main/images/icons/LI-Logo.png">](https://www.linkedin.com/in/searchsakib)
+[<p align="center"><img height="75" src="https://github.com/searchsakib/searchsakib/blog/main/images/icons/LI-Logo.png">](https://www.linkedin.com/in/searchsakib)
 
 <br />
