@@ -13,7 +13,7 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=searchsakib&theme=gruvbox-duo" alt="GitHub Streak" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=searchsakib&theme=merko" alt="GitHub Streak" />
 </p>
 
 ## :mailbox: Reach me
