@@ -2,6 +2,7 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=react,js)](https://skillicons.dev)
+<br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
 
 
