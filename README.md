@@ -3,7 +3,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=react,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb)](https://skillicons.dev)
 
