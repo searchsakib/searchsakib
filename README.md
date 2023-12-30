@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
 <br/>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react" />
+    <img src="https://skillicons.dev/icons?i=tailwind,js,react" />
   </a>
 <br/>
 <a href="https://skillicons.dev">
