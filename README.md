@@ -7,9 +7,11 @@
     <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
 <br/>
+<br/>
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind,js,react" />
   </a>
+<br/>
 <br/>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb" />
