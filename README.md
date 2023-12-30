@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
   </a>
 <br/>
 <br/>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,js,react" />
+    <img src="https://skillicons.dev/icons?i=js,react" />
   </a>
 <br/>
 <br/>
