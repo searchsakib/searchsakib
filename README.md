@@ -1,6 +1,10 @@
 ## :computer: Technologies I Worked with
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+  </a>
+</p>
 
 <div align="center">
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
