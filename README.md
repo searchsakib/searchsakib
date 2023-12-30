@@ -4,15 +4,16 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
   </a>
+<br/>
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react" />
+  </a>
+<br/>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb" />
+  </a>
 </p>
 
-<div align="center">
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb)](https://skillicons.dev)
-</div>
 
 
 
