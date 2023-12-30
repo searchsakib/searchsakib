@@ -1,7 +1,9 @@
 ## :computer: Technologies I Worked with
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
+<p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
+</p>
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
 <br/>
