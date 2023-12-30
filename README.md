@@ -1,4 +1,6 @@
-## :computer: Technologies I Worked with
+<p align="center">
+  ## :computer: Technologies I Worked with
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
