@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/searchsakib">
-    <img height="75" src="https://github.com/searchsakib/searchsakib/blob/main/images/icons/LI-In-Bug.png" alt="LinkedIn Logo">
+    <img height="75" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn Logo">
   </a>
 </p>
 
