@@ -2,13 +2,13 @@
 
 
 
-<p align="center">
+<div align="center">
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb)](https://skillicons.dev)
-</p>
+</div>
 
 
 
